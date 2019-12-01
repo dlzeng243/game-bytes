@@ -13,7 +13,9 @@ MonoBehaviour:
   m_Name: Minigame_tetris
   m_EditorClassIdentifier: 
   Name: Tetris 2P
-  Description: Tetris 1v1
+  Description: 'Tetris 1v1
+
+    Score increments by clearing gray lines'
   Year: 2019
   Semester: 0
   Thumbnail: {fileID: 21300000, guid: 05d2b34c5d3a365448761905bbad7958, type: 3}
